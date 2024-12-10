@@ -1,3 +1,3 @@
 # Demo1
-This is the basic demo repository operation
+basic project repo
 created on 10th december
